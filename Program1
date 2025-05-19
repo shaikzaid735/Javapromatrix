@@ -21,8 +21,7 @@ public class ProdMatrix
         col1 = a[0].length;   
             
         //Calculates the number of rows and columns present in the second matrix    
-    
-          row2 = 0].length;
+        row2 = 0].length;
         col2 = b[0].length;
             
         //For two matrices to be multiplied,     
