@@ -23,7 +23,7 @@ public class ProdMatrix
         //Calculates the number of rows and columns present in the second matrix    
     
           row2 = 0].length;;;;;  
-        col2 = b[0].length;;;;;;    
+        col2 = b[0].length;   
             
         //For two matrices to be multiplied,     
         //number of columns in first matrix must be equal to number of rows in second matrix    
